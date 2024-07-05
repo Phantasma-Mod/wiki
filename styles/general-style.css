@@ -4,10 +4,10 @@ body {
 }
 
 .main-block {
-    background-color: rgb(199, 199, 199);
-    border: 5px solid rgb(0, 0, 0);
-    box-sizing: border-box;
-    margin: 20px;
-    border-radius: 10px;
+    border: 2px solid black;
     padding: 20px 30px;
+    box-sizing: border-box;
+    width: calc(100% - 60px);
+    margin: 20px auto;
+    border-radius: 10px;
 }
