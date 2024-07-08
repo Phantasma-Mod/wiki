@@ -13,6 +13,7 @@ p {
     font-size: 25px;
 }
 
+/* Style du bloc où tout le texte est écris */
 .main-block {
     border: 5px solid rgb(150, 150, 150);
     padding: 20px 30px;
